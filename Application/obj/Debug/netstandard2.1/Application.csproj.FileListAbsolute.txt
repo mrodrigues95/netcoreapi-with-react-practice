@@ -1,0 +1,14 @@
+F:\Udemy\.NET Core and React - The Complete Guide\Application\bin\Debug\netstandard2.1\Application.deps.json
+F:\Udemy\.NET Core and React - The Complete Guide\Application\bin\Debug\netstandard2.1\Application.dll
+F:\Udemy\.NET Core and React - The Complete Guide\Application\bin\Debug\netstandard2.1\Application.pdb
+F:\Udemy\.NET Core and React - The Complete Guide\Application\bin\Debug\netstandard2.1\Domain.dll
+F:\Udemy\.NET Core and React - The Complete Guide\Application\bin\Debug\netstandard2.1\Persistence.dll
+F:\Udemy\.NET Core and React - The Complete Guide\Application\bin\Debug\netstandard2.1\Domain.pdb
+F:\Udemy\.NET Core and React - The Complete Guide\Application\bin\Debug\netstandard2.1\Persistence.pdb
+F:\Udemy\.NET Core and React - The Complete Guide\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+F:\Udemy\.NET Core and React - The Complete Guide\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+F:\Udemy\.NET Core and React - The Complete Guide\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+F:\Udemy\.NET Core and React - The Complete Guide\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+F:\Udemy\.NET Core and React - The Complete Guide\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+F:\Udemy\.NET Core and React - The Complete Guide\Application\obj\Debug\netstandard2.1\Application.dll
+F:\Udemy\.NET Core and React - The Complete Guide\Application\obj\Debug\netstandard2.1\Application.pdb

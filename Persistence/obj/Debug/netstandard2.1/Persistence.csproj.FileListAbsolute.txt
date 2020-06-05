@@ -1,0 +1,12 @@
+F:\Udemy\.NET Core and React - The Complete Guide\Persistence\bin\Debug\netstandard2.1\Persistence.deps.json
+F:\Udemy\.NET Core and React - The Complete Guide\Persistence\bin\Debug\netstandard2.1\Persistence.dll
+F:\Udemy\.NET Core and React - The Complete Guide\Persistence\bin\Debug\netstandard2.1\Persistence.pdb
+F:\Udemy\.NET Core and React - The Complete Guide\Persistence\bin\Debug\netstandard2.1\Domain.dll
+F:\Udemy\.NET Core and React - The Complete Guide\Persistence\bin\Debug\netstandard2.1\Domain.pdb
+F:\Udemy\.NET Core and React - The Complete Guide\Persistence\obj\Debug\netstandard2.1\Persistence.csprojAssemblyReference.cache
+F:\Udemy\.NET Core and React - The Complete Guide\Persistence\obj\Debug\netstandard2.1\Persistence.csproj.CoreCompileInputs.cache
+F:\Udemy\.NET Core and React - The Complete Guide\Persistence\obj\Debug\netstandard2.1\Persistence.AssemblyInfoInputs.cache
+F:\Udemy\.NET Core and React - The Complete Guide\Persistence\obj\Debug\netstandard2.1\Persistence.AssemblyInfo.cs
+F:\Udemy\.NET Core and React - The Complete Guide\Persistence\obj\Debug\netstandard2.1\Persistence.csproj.CopyComplete
+F:\Udemy\.NET Core and React - The Complete Guide\Persistence\obj\Debug\netstandard2.1\Persistence.dll
+F:\Udemy\.NET Core and React - The Complete Guide\Persistence\obj\Debug\netstandard2.1\Persistence.pdb
