@@ -11,8 +11,8 @@ namespace API.Controllers {
     public class ActivitiesController : BaseController {
         // GET a list of activities.
         [HttpGet]
-        public async Task<ActionResult<List<ActivityDto>>> List() {
-            return await Mediator.Send(new List.Query());
+        public async Task<ActionResult<List.ActivitiesEnvelope>> List(int? limit, int? offset) {
+            return await Mediator.Send(new List.Query(limit, offset));
         }
 
         // GET a single activity.
